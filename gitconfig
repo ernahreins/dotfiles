@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = erna.hreins@gmail.com
+	name = ErnaHreinsdottir
